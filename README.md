@@ -9,7 +9,7 @@
   />
 </p>
 
-<p align="center" >
+<!-- <p align="center" >
 
   <a href="https://github.com/YOUR_GITHUB_USERNAME">
     <img
@@ -38,17 +38,22 @@
 />
 </a>
 
-</p>
+</p> -->
 
 ---
 
 ## 🧑‍💻 About Me
 
 <p align="center">
+<<<<<<< HEAD
+=======
+  <!-- 🎓 <strong>BCA Student (IT)</strong> -->
+>>>>>>> dee1ff9 (Update 2)
   &nbsp;|&nbsp;
   💻 <strong>Full-Stack Developer</strong>
   &nbsp;|&nbsp;
   🎨 <strong>UI/UX Designer</strong>
+  &nbsp;|&nbsp;
 </p>
 
 <p align="center">
