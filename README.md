@@ -11,7 +11,7 @@
 
 <p align="center" >
 
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <!-- <a href="https://github.com/YOUR_GITHUB_USERNAME">
     <img
       src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?logo=github&style=for-the-badge&color=14B8A6&labelColor=0D1117&label=Followers"
       alt="Followers"
@@ -23,7 +23,7 @@
       src="https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?logo=github&style=for-the-badge&color=14B8A6&labelColor=0D1117&label=Stars"
       alt="Stars"
     />
-  </a> 
+  </a>  -->
  <!-- <a href="mailto:your-email@gmail.com">
     <img
       src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117"
