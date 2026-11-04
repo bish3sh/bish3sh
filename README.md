@@ -9,7 +9,7 @@
   />
 </p>
 
-<!-- <p align="center" >
+<p align="center" >
 
   <a href="https://github.com/YOUR_GITHUB_USERNAME">
     <img
@@ -38,14 +38,12 @@
 />
 </a>
 
-</p> -->
+</p>
 
 ---
 
 ## 🧑‍💻 About Me
-
 <p align="center">
-
   &nbsp;|&nbsp;
   💻 <strong>Full-Stack Developer</strong>
   &nbsp;|&nbsp;
