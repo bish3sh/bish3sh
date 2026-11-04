@@ -45,10 +45,7 @@
 ## 🧑‍💻 About Me
 
 <p align="center">
-<<<<<<< HEAD
-=======
-  <!-- 🎓 <strong>BCA Student (IT)</strong> -->
->>>>>>> dee1ff9 (Update 2)
+
   &nbsp;|&nbsp;
   💻 <strong>Full-Stack Developer</strong>
   &nbsp;|&nbsp;
