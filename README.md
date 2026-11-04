@@ -24,19 +24,19 @@
       alt="Stars"
     />
   </a> 
- <a href="mailto:your-email@gmail.com">
+ <!-- <a href="mailto:your-email@gmail.com">
     <img
       src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117"
       alt="Email"
     />
-  </a> 
+  </a>  -->
 
-<a href="">
+<!-- <a href="">
 <img
  src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=14B8A6&label=PROFILE+VIEWS"
  alt="Profile Views"
 />
-</a>
+</a> -->
 
 </p>
 
