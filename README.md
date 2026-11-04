@@ -45,7 +45,6 @@
 ## 🧑‍💻 About Me
 
 <p align="center">
-  🎓 <strong>BCA Student (IT)</strong>
   &nbsp;|&nbsp;
   💻 <strong>Full-Stack Developer</strong>
   &nbsp;|&nbsp;
