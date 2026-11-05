@@ -52,14 +52,14 @@
 </p>
 
 <p align="center">
-  I build <strong>scalable web applications & digital products</strong> with clean architecture and pixel-perfect design.<br />
+  I strive to <b>design interfaces that are not only stunning and appealing on the eye</b>, but also highly functional and contain visual storytelling.<br />
   I enjoy combining <strong>creative design, frontend responsiveness, and backend logic</strong> to solve real-world problems.
 </p>
 
 <table align="center">
   <tr>
     <td><strong>🔭 Currently working on</strong></td>
-    <td>Full-stack web apps, MERN stack & e-commerce systems</td>
+    <td>Full-stack web apps & e-commerce systems</td>
   </tr>
   <tr>
     <td><strong>🌱 Currently learning</strong></td>
@@ -93,7 +93,7 @@
 
 ---
 
-## 📊 GitHub Analytics
+<!-- ## 📊 GitHub Analytics
 
 <p align="center">
   <img
@@ -106,11 +106,11 @@
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=14B8A6"
     alt="Top Languages"
   />
-</p>
+</p> -->
 
 ---
 
-## 🔥 Contribution Streak
+<!-- ## 🔥 Contribution Streak
 
 <p align="center">
   <img
@@ -118,7 +118,7 @@
     src="https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&hide_border=true&background=0D1117&stroke=14B8A6&ring=14B8A6&fire=14B8A6&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=14B8A6&sideLabels=14B8A6&dates=C9D1D9"
     alt="GitHub Contribution Streak"
   />
-</p>
+</p> -->
 
 ---
 
